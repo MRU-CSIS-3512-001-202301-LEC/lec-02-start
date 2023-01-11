@@ -1,3 +1,3 @@
-# jp-starter-template
+# lec-02 start
 
 
